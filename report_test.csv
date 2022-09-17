@@ -1,0 +1,26 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1663431303514,5620,POST Sign In JSON,200,OK,Thread Group with JSON 1-5,text,true,,837,293,5,5,https://qauto2.forstudy.space/api/auth/signin,5608,0,229
+1663431302917,6217,POST Sign In JSON,200,OK,Thread Group with JSON 1-2,text,true,,837,293,5,5,https://qauto2.forstudy.space/api/auth/signin,6205,0,717
+1663431302804,6329,POST Sign In JSON,200,OK,Thread Group with JSON 1-1,text,true,,839,293,5,5,https://qauto2.forstudy.space/api/auth/signin,6317,0,829
+1663431303115,6019,POST Sign In JSON,200,OK,Thread Group with JSON 1-3,text,true,,841,293,5,5,https://qauto2.forstudy.space/api/auth/signin,6007,0,521
+1663431303341,5793,POST Sign In JSON,200,OK,Thread Group with JSON 1-4,text,true,,837,293,5,5,https://qauto2.forstudy.space/api/auth/signin,5781,0,295
+1663431309213,159,GET cars,200,OK,Thread Group with JSON 1-2,text,true,,3113,348,5,5,https://qauto2.forstudy.space/api/cars?user=7421,159,0,0
+1663431309213,159,GET cars,200,OK,Thread Group with JSON 1-1,text,true,,3113,350,5,5,https://qauto2.forstudy.space/api/cars?user=7421,159,0,0
+1663431309213,170,GET cars,200,OK,Thread Group with JSON 1-5,text,true,,3113,348,5,5,https://qauto2.forstudy.space/api/cars?user=7421,170,0,0
+1663431309213,170,GET cars,200,OK,Thread Group with JSON 1-4,text,true,,3113,348,5,5,https://qauto2.forstudy.space/api/cars?user=7421,170,0,0
+1663431309213,170,GET cars,200,OK,Thread Group with JSON 1-3,text,true,,3113,352,5,5,https://qauto2.forstudy.space/api/cars?user=7421,170,0,0
+1663431309695,191,Add car,201,Created,Thread Group with JSON 1-1,text,true,,537,429,5,5,https://qauto2.forstudy.space/api/cars,191,0,0
+1663431309696,189,Add car,201,Created,Thread Group with JSON 1-2,text,true,,537,427,5,5,https://qauto2.forstudy.space/api/cars,189,0,0
+1663431309700,185,Add car,201,Created,Thread Group with JSON 1-5,text,true,,537,427,5,5,https://qauto2.forstudy.space/api/cars,185,0,0
+1663431309695,190,Add car,201,Created,Thread Group with JSON 1-3,text,true,,537,431,5,5,https://qauto2.forstudy.space/api/cars,190,0,0
+1663431309694,191,Add car,201,Created,Thread Group with JSON 1-4,text,true,,537,427,5,5,https://qauto2.forstudy.space/api/cars,191,0,0
+1663431309900,196,Remove Car,200,OK,Thread Group with JSON 1-5,text,true,,335,366,5,5,https://qauto2.forstudy.space/api/cars/60673,196,0,0
+1663431309899,198,Remove Car,200,OK,Thread Group with JSON 1-4,text,true,,335,366,5,5,https://qauto2.forstudy.space/api/cars/60674,197,0,0
+1663431309899,198,Remove Car,200,OK,Thread Group with JSON 1-1,text,true,,335,368,5,5,https://qauto2.forstudy.space/api/cars/60671,197,0,0
+1663431309899,198,Remove Car,200,OK,Thread Group with JSON 1-3,text,true,,335,370,5,5,https://qauto2.forstudy.space/api/cars/60670,197,0,0
+1663431309899,198,Remove Car,200,OK,Thread Group with JSON 1-2,text,true,,335,366,5,5,https://qauto2.forstudy.space/api/cars/60672,196,0,0
+1663431310110,108,Log Out,200,OK,Thread Group with JSON 1-3,text,true,,497,349,5,5,https://qauto2.forstudy.space/api/auth/logout,107,0,0
+1663431310110,117,Log Out,200,OK,Thread Group with JSON 1-4,text,true,,497,345,5,5,https://qauto2.forstudy.space/api/auth/logout,117,0,0
+1663431310109,133,Log Out,200,OK,Thread Group with JSON 1-5,text,true,,497,345,3,3,https://qauto2.forstudy.space/api/auth/logout,132,0,0
+1663431310117,136,Log Out,200,OK,Thread Group with JSON 1-2,text,true,,497,345,2,2,https://qauto2.forstudy.space/api/auth/logout,136,0,0
+1663431310117,146,Log Out,200,OK,Thread Group with JSON 1-1,text,true,,497,347,1,1,https://qauto2.forstudy.space/api/auth/logout,145,0,0
